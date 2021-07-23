@@ -1,0 +1,38 @@
+{
+  "name": "cra-template-react-router-dom",
+  "version": "2.0.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "templates",
+    "router",
+    "route",
+    "routes",
+    "react-router",
+    "react-router-dom",
+    "cra",
+    "create-react-app",
+    "cra-template",
+    "create-react-app-template",
+    "create-react-app-templates"
+  ],
+  "author": "Ermeson Sampaio",
+  "description": "The base React Router Dom template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ermeso/cra-template-react-router-dom.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/Ermeso/cra-template-react-router-dom/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/Ermeso/cra-template-react-router-dom#readme"
+}
