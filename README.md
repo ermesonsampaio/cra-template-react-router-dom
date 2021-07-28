@@ -1,4 +1,4 @@
-# cra-template-react-router-dom
+# CRA Template for React Router Dom
 
 [![License](https://img.shields.io/github/license/ermesonsampaio/cra-template-react-router-dom?style=for-the-badge)](https://github.com/ermesonsampaio/cra-template-react-router-dom/blob/main/LICENSE)
 ![NPM Downloads](https://img.shields.io/npm/dm/cra-template-react-router-dom?style=for-the-badge)
