@@ -4,7 +4,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import { HomePage } from './pages/Home';
 import { PageTwo } from './pages/Page2';
 
-export default () => (
+const App = () => (
   <BrowserRouter>
     <Switch>
       <Route path="/" exact component={HomePage} />
@@ -12,3 +12,5 @@ export default () => (
     </Switch>
   </BrowserRouter>
 );
+
+export default App;
